@@ -1,0 +1,21 @@
+This is Team 15’s Garage Sale Website Play Application.
+———————————————————————————————————————————————————————
+How to create a SuperUser (can only create once) :
+go to /createsuperuser
+
+login id: cs2340
+pw: superuser
+
+———————————————————————————————————————————————————————
+
+For Sale -> new Transaction,
+
+some computers might not be able to see an ‘add’ tab for
+a new transaction due to css.
+
+———————————————————————————————————————————————————————
+
+To edit user profile,
+
+click on the upside down triangle on the main page, to
+the right of the user picture.

@@ -1,0 +1,38 @@
+.user-table {
+  margin: auto;
+  width: 900px;
+}
+
+.mdl-select {
+  margin-top: -20px;
+  width: 150px;
+  height: 25px;
+}
+
+.administration-control {
+  margin-top: 10px;
+  margin-right: 20px;
+  text-align: right;
+}
+
+.manage {
+  padding: 25px;
+  margin: auto;
+  text-align: center;
+  height: 100px;
+  width: 150px;
+  background-color: #29b6f6;
+}
+
+.manage i {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.manage a {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 500;
+}
